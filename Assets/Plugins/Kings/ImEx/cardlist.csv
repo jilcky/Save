@@ -1,0 +1,65 @@
+GroupName;CardName;StyleName;EventScript.titleText;EventScript.questionText;EventScript.answerLeft;EventScript.answerRight;EventScript.answerUp;EventScript.answerDown
+General;_StartCard;cs_King;You are now King!;you can check your stats by clicking on the top panel;i have waited a long time for this!;i will try my best to be a good king;;
+General;Admob;cs_Ads;Advertisement;Want to show a quick video to increase all stats?;Sure!;No :(;;
+General;Army_parade;cs_Army;Army;The army wants to hold a big parade?;Sure;We don`t have the money for this;;
+General;Army_Weapons;cs_Army;Army;The Army wants better Weapons;Sure;Your Weapons are good enough;;
+General;Conditional_AuthorityCharisma;cs_King;ConditionalCard;Choose your stronger stat;Try it with your Authority (you need 50+);Charisma, i choose you! (you need 50+);;
+General;Conditional_MarriageLookIntelligence;cs_Marriage;Marriage;Which Princess do you want to marry?;The Beautiful One;The Smart One;;
+General;Conditional_RandomConditionsLuck;cs_King;Random & Luck;Swipe left to randomly increase one stat, swipe right to increase or decrease all 4 stats.;Random;I am feeling lucky;;
+General;Fallback_GameOver;cs_None;;This should not happen! There is no available card left, you are now dead.;;;;
+General;FollowUp_MarriedFail1;cs_Marriage;Proposal declined;The princess is not interessted in you, because you are too ugly...;Oh no...;Oh no...;;
+General;FollowUp_MarriedFail2;cs_Marriage;Proposal declined;The princess is not interessted in you, because you are too stupid...;Oh no...;Oh no...;;
+General;FollowUp_MarriedSuccess1;cs_Marriage;Married;Congratulation! You are now married!;Nice!;Nice!;;
+General;FollowUp_MarriedSuccess2;cs_Marriage;Married;Congratulation! You are now married!;Nice!;Nice!;;
+General;FourWaySwipe;cs_None;FOUR WAY SWIPE;Which faction do you want to support?;Army;People;Religion;Money
+General;GameOver__Log;cs_None;;;;;;
+General;GameOver__Score;cs_None;Game Over;;;;;
+General;GameOver__Timeline;cs_None;;;;;;
+General;GameOver_Army;cs_GameOver;Game Over;The army put you in prison!;Oh no!;Why!?;;
+General;GameOver_Money;cs_GameOver;Game Over;Your Kingdom is bankrupt!;Oh no!;Why!?;;
+General;GameOver_MoneyContinue;cs_GameOver;Game Over?;Your Kingdom is bankrupt! But you could use your Money Chest to continue playing?;Open the Chest!;No, i want to keep it!;;
+General;GameOver_People;cs_GameOver;Game Over;You lost the trust of your people. They started a revolt.;Oh no!;Why!?;;
+General;GameOver_Religion;cs_GameOver;Game Over;Some fanatics crucified you!;Oh no!;Why!?;;
+General;MagicBean;cs_King;Magic Bean;The Magic Bean you planted, grew only a normal sized bean vine :(;Damn!;Bring me the Head of this Merchant!;;
+General;MagicChicken;cs_King;Magic Chicken;Your Magic Chicken died this morning while laying its last egg...;Oh no!;Oh no!;;
+General;Merchant;cs_None;Merchant;A strange looking, travelling Merchant is offering some of his goods;Magic Bean - 10 Gold;Mysterious Egg - 20 Gold;Crystall Ball - 15 Gold;I don't want any of these
+General;MoneyCredit;cs_Money;LEND MONEY?;Lend the neighboring country 30 Gold, you will receive 10 Gold back for 5 rounds.;Sounds good!;You can't have my money!;;
+General;MultichoiceCard;cs_None;Multichoice;Choose one to increase, the others will decline;ARMY;PEOPLE;RELIGION;MONEY
+General;newcardtmplts0;CardStyle_t00;Card Templates;With this update new card templates have been added, want to see them?;Sure!;No;;
+General;newcardtmplts1;CardStyle_t01;Template Card 01;Show the next card template?;Sure!;No!;;
+General;newcardtmplts2;CardStyle_t02;Template Card 02;Show the next card template?;Sure!;No!;;
+General;newcardtmplts3;CardStyle_t03;Template Card 03;Quesion Text;Answer Left;Answer Right;;
+General;newcardtmplts4;CardStyle_t04;Card Template 04;Multichoice Card;Answer 1;Answer 2;Answer 3;Answer 4
+General;NoMovingTextCard;cs_None;Army;The army want to hold a big parade?;Sure;We don`t have the money for this;;
+General;People_army;cs_People;People;The people want the soldiers to work on their fields in times of peace;Great idea!;Sorry thats not possible;;
+General;People_eatinchurch;cs_People;People;The people want to eat lunch in church;Great idea!;Sorry thats not possible;;
+General;People_taxes;cs_People;People;The people ask for lower taxes;Fine;Sorry thats not possible;;
+General;PlayerLevel2;cs_King;LEVEL UP!;You have quite some experience as a ruler, this allows new cards to appear.;Great!;Great!;;
+General;PlayerLevel2_finances;cs_Money;Advanced Finances;Your finance advisor makes a confusing suggestion to restructure your money;I did not understand a thing, but fine.;No, better not.;;
+General;Religion_cathedral;cs_Religion;Religion;The church wants to build a huge cathedral?;Ok;Sorry, we don`t have the money for this...;;
+General;Religion_holywar;cs_Religion;Religion;The church wants to start a new holy war?;Fine;No!;;
+General;Religion_killFirstborn;cs_Religion;Religion;The church wants to kill all the firstborn;Sure, why not...;Hell no!;;
+General;SelectKing;cs_None;Select Ruler;Question Text;George the Mighty;Louis the Great;Elizabeth the Ruler;Maria the Skinny
+General;ValueChangesValue;cs_Money;Money;Give away half of your total wealth ({value=money} Gold) to make all 3 factions happy?;Ok;No!;;
+General;Years_30_Achievement;cs_King;30 Years;Congratulation! You are now ruling since 30 years.;Great!;Great!;;
+General;War_start;cs_War;Go to War?;Do you want to start a war with the neighbouring kingdom?;Sure, i hated them from the start!;No, better not.;;
+General;War_surrender;cs_War;You surrendered!;Your reputation suffered and most of your money has been taken away.;Why me??;Oh, no ...;;
+General;Witch_ShowResults;cs_None;Witch;A Witch offers you to show you the future for a bit of your gold?;Sounds good!;No, better not.;;
+General;Years_5_Achievement;cs_King;5 Years;Congratulation! You are now ruling since 5 years.;Great!;Great!;;
+General;Years_10_Achievement;cs_King;10 Years;Congratulation! You are now ruling since 10 years.;Great!;Great!;;
+General;Years_20_Achievement;cs_King;20 Years;Congratulation! You are now ruling since 20 years.;Great!;Great!;;
+General;Timer;cs_Religion;Timer;Left or right, make a quick decision!;I can't handle this pressure...;No idea, what i should be doing...;;
+Marriage;Marriage_divorce;cs_Marriage;Divorce;The Queen left you because you dont care enough for her;Oh no...;Ok;;
+Marriage;Marriage_renovate;cs_Marriage;Marriage;The Queen wants to renovate the castle;Sure;No! Everything stays like it is.;;
+Marriage;Marriage_spider;cs_Marriage;Marriage;The Queen found a big spider in the bedroom. She asks to burn down the whole castle?;Sounds good;No!;;
+Marriage;Marriage_summercastle;cs_Marriage;Marriage;The Queen wants to buy a castle in the neighbor kingdom for the summer?;Ok...;No! That`s madness!;;
+Marriage;Marriage_child_born;cs_Marriage;Child;The Queen has born you a son, how do you want to name him? Select a premade one or enter a custom name below and swipe in any direction.;Charles;Henry;;
+Marriage;Marriage_child_crossbow;cs_Marriage;Child;Your son {dict=Child} wants to play with the crossbow?;Sure, what should go wrong??;Better not...;;
+Ads;Ad_General;cs_Ads;Advertisement;Want to show a quick video to increase all stats?;Sure!;No :(;;
+Ads;Ad_People;cs_Ads;People;The people are getting frustrated! Watch ad to make them happy?;Sure!;No :(;;
+War;War_defeat;cs_War;WAR LOST!;Your army was weaker than the enemy army...;Oh no!;Oh no!;;
+War;War_firstAttack;cs_War;FIRST ATTACK;Choose the first attack target;Cut off their food supplies to weaken them;Screw tactics, attack them directly!;;
+War;War_secondAttack;cs_War;SECOND ATTACK;Choose the second attack target;Cut off their reinforcements;I am bored of this, attack them directly!;;
+War;War_thirdAttack;cs_War;THIRD ATTACK;Choose the third attack target;It's finally time to attack their main forces!;I changed my mind, let's retreat quietly...;;
+War;War_victory;cs_War;WAR WON!;You defeated the other kingdom!;Awesome!;Awesome!;;
+

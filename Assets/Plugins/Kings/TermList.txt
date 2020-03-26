@@ -1,0 +1,299 @@
+Crystal Ball
+Can be used to see in the future and preview the results of your decisions.
+Use item
+Magic Bean
+No one knows what will grow from it
+Plant Seed
+Magic Chicken
+It lays golden Eggs, the wealth of your kingdom is secured! You receive 10 Gold every round.
+Consume
+Chest with Money
+If you are bankrupt, you can use this to continue playing.
+Open the Chest
+Mysterious Egg
+No one knows what is going to hatch from this...
+Hatch the Egg
+Sharp Sword
+Increase the moral of the Soliders. Army +10
+Male
+Female
+You were loved by the People.
+The People hated you.
+The Army saw a great Leader in you.
+The Army saw an unworthy Leader in you.
+You were the Messiah to the Church.
+You were the Devil to the Church.
+You led your kingdom to great wealth.
+You lost all the money of your kingdom.
+You ruled for over 5 years.
+You ruled for over 10 years.
+You ruled for over 20 years.
+You ruled for over 30 years.
+Consult a Witch
+Let a Witch show you the future
+Get Married
+Marry a princess
+Hero of the Peasants
+Reach maximum popularity with the People and Army
+Reign for 10 years
+Reign your Kingdom for at least 10 years
+Reign for 20 years
+Reign your Kingdom for at least 20 years
+Reign for 30 years
+Reign your Kingdom for at least 30 years
+Friend with the Rich
+Reach maximum popularity with Church and Bank
+Win a War
+Defeat the Enemy Kingdom
+You are now King!
+you can check your stats by clicking on the top panel
+i have waited a long time for this!
+i will try my best to be a good king
+
+You became King. Everyone was excited to see how you will rule the kingdom.
+Advertisement
+Want to show a quick video to increase all stats?
+Sure!
+No :(
+Army
+The army wants to hold a big parade?
+Sure
+We don`t have the money for this
+The Army wants better Weapons
+Your Weapons are good enough
+ConditionalCard
+Choose your stronger stat
+Try it with your Authority (you need 50+)
+Charisma, i choose you! (you need 50+)
+Marriage
+Which Princess do you want to marry?
+The Beautiful One
+The Smart One
+Random & Luck
+Swipe left to randomly increase one stat, swipe right to increase or decrease all 4 stats.
+Random
+I am feeling lucky
+This should not happen! There is no available card left, you are now dead.
+Proposal declined
+The princess is not interessted in you, because you are too ugly...
+Oh no...
+The princess thinks you are too ugly
+You tried to marry a beautiful princess, but your proposal was declined, because you were too ugly.
+The princess is not interessted in you, because you are too stupid...
+The princess thinks you are too stupid
+You tried to marry a smart princess, but your proposal was declined, because you are too stupid.
+Married
+Congratulation! You are now married!
+Nice!
+You married a beautiful princess.
+You married a smart princess.
+FOUR WAY SWIPE
+Which faction do you want to support?
+People
+Game Over
+The army put you in prison!
+Oh no!
+Why!?
+Your Kingdom is bankrupt!
+Game Over?
+Your Kingdom is bankrupt! But you could use your Money Chest to continue playing?
+Open the Chest!
+No, i want to keep it!
+You lost the trust of your people. They started a revolt.
+Some fanatics crucified you!
+The Magic Bean you planted, grew only a normal sized bean vine :(
+Damn!
+Bring me the Head of this Merchant!
+Your Magic Chicken died this morning while laying its last egg...
+Merchant
+A strange looking, travelling Merchant is offering some of his goods
+Magic Bean - 10 Gold
+Mysterious Egg - 20 Gold
+LEND MONEY?
+Lend the neighboring country 30 Gold, you will receive 10 Gold back for 5 rounds.
+Sounds good!
+You can't have my money!
+Multichoice
+Choose one to increase, the others will decline
+ARMY
+PEOPLE
+Card Templates
+With this update new card templates have been added, want to see them?
+No
+Template Card 01
+Show the next card template?
+No!
+Template Card 02
+Template Card 03
+Quesion Text
+Answer Left
+Answer Right
+Card Template 04
+Multichoice Card
+Answer 1
+Answer 2
+Answer 5
+Answer 6
+The army want to hold a big parade?
+The people want the soldiers to work on their fields in times of peace
+Great idea!
+Sorry thats not possible
+The people want to eat lunch in church
+The people ask for lower taxes
+Fine
+LEVEL UP!
+You have quite some experience as a ruler, this allows new cards to appear.
+Great!
+Advanced Finances
+Your finance advisor makes a confusing suggestion to restructure your money
+I did not understand a thing, but fine.
+No, better not.
+Religion
+The church wants to build a huge cathedral?
+Ok
+Sorry, we don`t have the money for this...
+The church wants to start a new holy war?
+The church wants to kill all the firstborn
+Sure, why not...
+Hell no!
+Select Ruler
+Question Text
+George the Mighty
+Louis the Great
+Click hear to play with  a randomly generated King or Queen
+Money
+Give away half of your total wealth ({value=money} Gold) to make all 3 factions happy?
+30 Years
+Congratulation! You are now ruling since 30 years.
+Go to War?
+Do you want to start a war with the neighbouring kingdom?
+Sure, i hated them from the start!
+You started a war,
+You surrendered!
+Your reputation suffered and most of your money has been taken away.
+Why me??
+Oh, no ...
+but surrendered later.
+Witch
+A Witch offers you to show you the future for a bit of your gold?
+5 Years
+Congratulation! You are now ruling since 5 years.
+10 Years
+Congratulation! You are now ruling since 10 years.
+20 Years
+Congratulation! You are now ruling since 20 years.
+Timer
+Left or right, make a quick decision!
+I can't handle this pressure...
+No idea, what i should be doing...
+Divorce
+The Queen left you because you dont care enough for her
+But your marriage didn`t last very long and in the end you divorced and never married again.
+The Queen wants to renovate the castle
+No! Everything stays like it is.
+The Queen found a big spider in the bedroom. She asks to burn down the whole castle?
+Sounds good
+The Queen wants to buy a castle in the neighbor kingdom for the summer?
+Ok...
+No! That`s madness!
+Child
+The Queen has born you a son, how do you want to name him? Select a premade one or enter a custom name below and swipe in any direction.
+Charles
+Henry
+You named him {dict=Child}
+Your son {dict=Child} wants to play with the crossbow?
+Sure, what should go wrong??
+Better not...
+The people are getting frustrated! Watch ad to make them happy?
+WAR LOST!
+Your army was weaker than the enemy army...
+but lost it!
+FIRST ATTACK
+Choose the first attack target
+Cut off their food supplies to weaken them
+Screw tactics, attack them directly!
+SECOND ATTACK
+Choose the second attack target
+Cut off their reinforcements
+I am bored of this, attack them directly!
+THIRD ATTACK
+Choose the third attack target
+It's finally time to attack their main forces!
+I changed my mind, let's retreat quietly...
+WAR WON!
+You defeated the other kingdom!
+Awesome!
+and won it!
+you have married
+King and Queen
+you have ruled now for over 5 years
+long live the king
+you have ruled now for over 10 years
+you have ruled now for over 20 years
+you have ruled now for over 30 years
+Child is born
+your wife gave birth to a child.
+Prison
+the army couldn't tolerate you any longer and put you in prison
+Bankrupt
+you lost all the money of your kingdom
+Revolt
+the people had enough from you and revolted
+Crucified
+some fanatics crucified you
+Divorced
+the queen has left you
+your marriage proposal was declined
+You have married
+your proposal was accepted
+Money credit
+you lent money to a neighboring kingdom
+War lost
+you lost the war with the neighboring country
+War started
+you started a war with the neighboring country
+War won
+You defeated the neighboring country
+Witch consulted
+to show you impacts of your decisions
+You became king
+everyone was excited to see how you will rule the kingdom
+England
+the Ruler
+the Emperor
+the Mighty
+the Strong
+I
+IV
+George
+Harry
+Elizabeth
+Kate
+Diana
+France
+the Great
+the Greatest
+the Fatty
+the Skinny
+II
+VI
+Louis
+Napoleon
+Jacques
+Catherine
+Eleanor
+Maria
+Fantasialand
+the Funny
+the Fearsome
+the One
+the Weasel
+III
+VII
+Jimmy
+Micky
+Timmy
+Nicky
+Pinky
+Kitty
+

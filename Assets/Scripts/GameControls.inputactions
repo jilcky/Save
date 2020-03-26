@@ -1,0 +1,240 @@
+{
+    "name": "GameControls",
+    "maps": [
+        {
+            "name": "行为",
+            "id": "c5195d24-8761-4e5b-a520-d2d730263fa5",
+            "actions": [
+                {
+                    "name": "交互",
+                    "type": "Button",
+                    "id": "a867a1b5-aae5-46ef-949e-4eaf5e90a9ea",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "暂停",
+                    "type": "Button",
+                    "id": "df70193a-915d-47b9-8263-73bc0a025a19",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Tap"
+                },
+                {
+                    "name": "取消",
+                    "type": "Button",
+                    "id": "92799841-344a-468c-89b1-cbe94e43bcd9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "确定",
+                    "type": "Button",
+                    "id": "3411183c-5dca-472d-988c-beac06b22dda",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "移动",
+                    "type": "Button",
+                    "id": "2e4083e5-4a3b-45ac-a67f-31076d2a2b00",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "攻击",
+                    "type": "Button",
+                    "id": "e3d92ef0-2c33-4a6a-9eec-89e4d0b648e3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "跳跃",
+                    "type": "Button",
+                    "id": "0757c476-2f4a-412c-bdd1-7fe5b51e949e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "触控0",
+                    "type": "Value",
+                    "id": "48da60a0-b877-4077-86b7-7164d448beee",
+                    "expectedControlType": "Touch",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "触控1",
+                    "type": "Value",
+                    "id": "9ae5990a-1667-4d42-90e3-e11eb1f48d65",
+                    "expectedControlType": "Touch",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "46d7923b-ac91-4027-a7a4-8b3baf66b726",
+                    "path": "<Keyboard>/j",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "攻击",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dfd2cf38-a22d-45c8-b7da-da29283160c5",
+                    "path": "<Keyboard>/k",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "跳跃",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c6a08e89-4ed2-474f-a70f-53cc70702697",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "确定",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "231e55a4-ac76-43b3-bfe3-41054a14ca97",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "取消",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fcd2dbca-e987-48e7-a26d-827dfcdc0f76",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "暂停",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0b9bd79b-1a6f-425d-933e-4aad205eb40a",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "交互",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "2D Vector",
+                    "id": "8fcb7fe1-dbd6-4b68-9230-33262c05ea48",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "移动",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "2eaea37e-b010-4a30-9558-3f5032320926",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "移动",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "68840990-8e47-4026-8dd7-99ccd826e650",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "移动",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "f38da071-3b03-41eb-8d35-7dd7b2ad6908",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "移动",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "f9631820-25fd-44e9-bc89-786f9156a23e",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "移动",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "8198011e-5f03-480a-abeb-05b30597c07a",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "移动",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "03f77c8f-6e83-486a-8641-1d29b8a0f240",
+                    "path": "<Touchscreen>/touch0",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "触控0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b299b6ad-12c2-46cc-b725-10023fe8be29",
+                    "path": "<Touchscreen>/touch1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "触控1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
